@@ -4,7 +4,7 @@ This is a spring boot java project that can be imported in any dev tool such as 
 
 The project uses gradle as its build tool.
 
-Demonstrate a Stock Order accepting app using JAVA Web stack and features writing test cases.
+Demonstrate building a simple Order (Stock) accepting app using JAVA Web stack and features writing test cases.
 
 # Run application
 
