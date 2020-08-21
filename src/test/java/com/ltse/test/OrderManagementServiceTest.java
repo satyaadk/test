@@ -23,7 +23,7 @@ import java.text.SimpleDateFormat;
  * check all conditions for order processing
  */
 @Slf4j
-public class c {
+public class OrderManagementServiceTest {
 
     OrderManagementService orderManagementService;
 
